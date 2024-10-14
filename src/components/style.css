@@ -1,0 +1,402 @@
+.bg-myRed{
+  background-color: crimson;
+}
+
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-image: linear-gradient(to right, rgba(255,0,0,0), #4949FF);
+ 
+ 
+} */
+
+li {
+  float: left;
+}
+
+.marginTop{
+  margin-left: 80px;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+}
+.container{
+
+  margin-top: 50px;
+}
+
+
+.content{
+  padding: 12px;
+  height: 3000px;
+}
+
+.coloring{
+  color: black;
+}
+.divColor{
+
+  background-image: linear-gradient(to left, rgba(0,0,0,255), #2a5298);
+  width: 50%;
+  margin-left: 380px;
+  margin-top: 20px;
+  height: 70px;
+}
+p {
+  font-size: 2rem;
+  text-align: center;
+  margin-right: 90px;
+ 
+  
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #b5fac7;
+}
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .h4{
+
+    color: steelblue;
+    text-shadow: 2px 2px 5px gray;
+    margin-left: 700px;
+    margin-top: 40px;
+   
+   
+    
+  }
+
+  
+  .searchh4{
+
+    color: rgb(13, 10, 83);
+    text-shadow: 2px 2px 5px gray;
+    margin-left: 700px;
+    margin-top: 40px;
+   
+   
+    
+  }
+  .dashBoard{
+
+    color: rgb(13, 10, 83);
+    text-shadow: 2px 2px 5px gray;
+    margin-left: 500px;
+    margin-top: 60px;
+   
+   
+    
+  }
+
+  .Titleh4{
+
+    color: rgb(123, 143, 168);
+    text-shadow: 2px 2px 5px gray;
+    margin-left: 600px;
+    margin-top: 40px;
+   
+   
+    
+  }
+
+  .Titleh1{
+
+    color: rgb(123, 143, 168);
+    text-shadow: 2px 2px 5px gray;
+    margin-left: 650px;
+
+   
+   
+    
+  }
+
+  
+
+  .titlecolor{
+
+    color: steelblue;
+    text-shadow: 2px 2px 5px gray;
+  
+    margin-top: 40px;
+   
+   
+    
+  }
+  .titlecolorDashboard{
+
+    color: rgb(32, 30, 112);
+
+    text-shadow: 2px 2px 5px gray;
+  
+   
+   
+    
+  }
+
+  
+.bg{
+
+    background-color: darkcyan;
+}
+
+ 
+  .card{
+
+    margin-right: 400px;
+    margin-top: -100px;
+    
+    
+  }
+  .card-body{
+
+    background-color: #c6e3f7;
+   
+  }
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  
+  .centered
+{
+    margin: auto; position: absolute;
+     top: 30%; left: 30%; bottom: 0; right: 0; transform: translate(-50% -50%);
+     
+}
+.centeredcard
+{
+    margin: auto; position: absolute;
+     top: 15%; left: 15%; bottom: 0; right: 0; transform: translate(-50% -50%);
+     
+}
+.centered_card
+{
+    margin: auto; position: absolute;
+     top: 10%; left: 27%; bottom: 0; right: 0; transform: translate(-50% -50%);
+     
+}
+.centered_cardApp
+{
+    margin: auto; position: absolute;
+     top: 10%; left: 5%; bottom: 0; right: 0; transform: translate(-50% -50%);
+     
+}
+
+.box {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.mybtn{
+
+  margin-left: 420px;
+}
+
+.divleft{
+  margin-left: 100px;
+}
+
+
+.datePicker {
+  width: 50%;
+
+}
+.navdivColor{
+
+  background-color: white;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* dropdown */
+.image{
+
+  background-repeat: no-repeat;
+}
+body{
+            margin: 0;
+            padding: 0;
+            font-family:poppins;
+            background: url("./doctor6.jpg");
+            
+            -webkit-background-size: cover;
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            height: 140vh;
+        }
+        a{
+            font-size: 14px;
+            text-transform: none;
+        }
+        .nav-area{
+           
+            background-image: linear-gradient(to left, rgba(0,0,0,255), #2a5298);
+ 
+        }
+        .nav-area:after{
+            content: '';
+            clear: both;
+            display: block;
+        }
+        .nav-area ul{
+            list-style: none;
+            margin: 0;
+        }
+        .nav-area > ul > li{
+            float: left;
+            position: relative;
+        }
+        .nav-area ul li a{
+            text-decoration: none;
+            color: #fff;
+            padding: 15px 20px;
+            display: block;
+        }
+        .nav-area ul li:hover a{
+            background: #34495e;
+        }
+
+        .nav-area ul ul{
+            position: absolute;
+            padding: 0;
+            min-width: 160px;
+            display: none;
+            top: 100%;
+            left: 0;
+        }
+        .nav-area ul li:hover > ul{
+            display: block;
+        }
+        .nav-area ul ul li:hover a{
+            background: #262626;
+        }
+        .nav-area ul ul li{
+            position: relative;
+        }
+        .nav-area ul ul ul{
+            top: 0;
+            left: 100%;
+        }
+        .nav-area ul ul ul li:hover a{
+            background: #34495e;
+        }
+
+
+        .appImg{
+          width: 100%;
+          height: 100%;
+        }
+        .appImgDep{
+          width: 100%;
+          height: 30vh;
+        }
+        .dashboards{
+          width: 100%;
+          height: auto;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-evenly;
+          margin-top: -80px;
+        }
+
+        .appDashboard{
+          margin-top: 200px;
+          margin-left: 150px;
+        }
+
+        .appDashboard2{
+          margin-top: 200px;
+          margin-left: 50px;
+        }
+        .appDashboard3{
+          margin-top: 200px;
+          margin-left: 50px;
+        }
+
+        .custoomNav{
+          background-image: linear-gradient(to left, rgba(0,0,0,255), #2a5298);
+          width: 100%;
+         height: 150px;
+         color: white;
+
+        }
